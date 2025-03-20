@@ -57,3 +57,7 @@ Donut Chart: Visualize Sales by Region to compare revenue distribution.
 Interactivity & Filters:
 Add year slicers to allow users to filter data dynamically.
 Enable tooltips for detailed insights on hovering over visuals.
+
+## Dashboard
+![Global Sales](https://github.com/user-attachments/assets/280c9369-9488-42e4-af4e-c5cb40db0949)
+
